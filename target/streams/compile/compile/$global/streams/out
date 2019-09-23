@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0m/tmp_amd/cage/export/cage/2/z5171092/Desktop/9313Last/src/main/scala/index.scala:38:9: not found: value all_files[0m
+[0m[[0m[31merror[0m] [0m[0m        all_files.foreach(file=>{[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/tmp_amd/cage/export/cage/2/z5171092/Desktop/9313Last/src/main/scala/index.scala:97:39: value length is not a member of play.api.libs.json.JsValue[0m
+[0m[[0m[31merror[0m] [0m[0m                    while (idx < text.length){[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/tmp_amd/cage/export/cage/2/z5171092/Desktop/9313Last/src/main/scala/index.scala:99:36: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m                            people = people + text(idx).toString[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/tmp_amd/cage/export/cage/2/z5171092/Desktop/9313Last/src/main/scala/index.scala:101:39: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m                            locations = locations + text(idx).toString[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/tmp_amd/cage/export/cage/2/z5171092/Desktop/9313Last/src/main/scala/index.scala:103:43: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m                            organizations = organizations + text(idx).toString[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/tmp_amd/cage/export/cage/2/z5171092/Desktop/9313Last/src/main/scala/index.scala:115:44: value toList is not a member of Unit[0m
+[0m[[0m[31merror[0m] [0m[0m            val people_list = "[" + people.toList.mkString(",")+"]"[0m
+[0m[[0m[31merror[0m] [0m[0m                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/tmp_amd/cage/export/cage/2/z5171092/Desktop/9313Last/src/main/scala/index.scala:116:50: value toList is not a member of Unit[0m
+[0m[[0m[31merror[0m] [0m[0m            val locations_list = "[" + locations.toList.mkString(",")+"]"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/tmp_amd/cage/export/cage/2/z5171092/Desktop/9313Last/src/main/scala/index.scala:117:58: value toList is not a member of Unit[0m
+[0m[[0m[31merror[0m] [0m[0m            val organizations_list = "[" + organizations.toList.mkString(",")+"]"[0m
+[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/tmp_amd/cage/export/cage/2/z5171092/Desktop/9313Last/src/main/scala/index.scala:146:9: not found: value reutrn[0m
+[0m[[0m[31merror[0m] [0m[0m        reutrn newEn[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m
